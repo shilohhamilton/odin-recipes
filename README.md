@@ -1,2 +1,2 @@
-# odin-recipes
-A basic recipe website.
+# recipes-website
+A basic recipe website, including all of the HTML knowledge I have acquired thus far.
