@@ -1,2 +1,2 @@
 # recipes-website
-A basic recipe website, including all of the HTML knowledge I have acquired thus far.
+A basic recipe website, including all of the HTML knowledge I have acquired so far.
